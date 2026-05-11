@@ -45,24 +45,12 @@ If you find our code helpful in your research or work please cite our paper.
 }
 ```
 ```bibtex
-@misc{yang2025openrr1kscalabledatasetrealworld,
-      title={OpenRR-1k: A Scalable Dataset for Real-World Reflection Removal}, 
-      author={Kangning Yang and Ling Ouyang and Huiming Sun and Jie Cai and Lan Fu and Jiaming Ding and Chiu Man Ho and Zibo Meng},
-      year={2025},
-      eprint={2506.08299},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.08299}, 
-}
-```
-```bibtex
-@misc{yang2025surveysingleimagereflectionremoval,
-      title={Survey on Single-Image Reflection Removal using Deep Learning Techniques}, 
-      author={Kangning Yang and Huiming Sun and Jie Cai and Lan Fu and Jiaming Ding and Jinlong Li and Chiu Man Ho and Zibo Meng},
-      year={2025},
-      eprint={2502.08836},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.08836}, 
+@inproceedings{yang2025openrr,
+  title={Openrr-1k: A scalable dataset for real-world reflection removal},
+  author={Yang, Kangning and Ouyang, Ling and Sun, Huiming and Cai, Jie and Fu, Lan and Ding, Jiaming and Ho, Chiu Man and Meng, Zibo},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)},
+  pages={839--844},
+  year={2025},
+  organization={IEEE}
 }
 ```
